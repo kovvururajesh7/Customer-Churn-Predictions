@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/rajeshkovvuru/Documents/Mlops_Project/Customer-Churn-Predictions/mlruns/963250804078364240/84c138c6ea8741699883fbfa3cc4a13e/artifacts
+end_time: 1780039228924
+entry_point_name: ''
+experiment_id: '963250804078364240'
+lifecycle_stage: active
+run_id: 84c138c6ea8741699883fbfa3cc4a13e
+run_name: crawling-ram-267
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780039226963
+status: 3
+tags: []
+user_id: rajeshkovvuru
