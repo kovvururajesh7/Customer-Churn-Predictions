@@ -1,1 +1,5 @@
 /customer_churn.csv
+/X_train.pkl
+/X_test.pkl
+/y_train.pkl
+/y_test.pkl

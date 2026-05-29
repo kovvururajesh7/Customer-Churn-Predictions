@@ -37,6 +37,7 @@ def preprocess_data(file_path):
     joblib.dump(y_test, "data/y_test.pkl")
 
     print("Preprocessing completed and files saved.")
+    print(X_train.columns)
 
 
 if __name__ == "__main__":

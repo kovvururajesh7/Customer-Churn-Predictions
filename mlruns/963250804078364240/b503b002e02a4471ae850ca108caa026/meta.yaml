@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/rajeshkovvuru/Documents/Mlops_Project/Customer-Churn-Predictions/mlruns/963250804078364240/b503b002e02a4471ae850ca108caa026/artifacts
+end_time: 1780041072217
+entry_point_name: ''
+experiment_id: '963250804078364240'
+lifecycle_stage: active
+run_id: b503b002e02a4471ae850ca108caa026
+run_name: adorable-hen-788
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780041070315
+status: 3
+tags: []
+user_id: rajeshkovvuru

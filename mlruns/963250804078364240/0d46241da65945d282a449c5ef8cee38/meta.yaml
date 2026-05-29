@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/rajeshkovvuru/Documents/Mlops_Project/Customer-Churn-Predictions/mlruns/963250804078364240/0d46241da65945d282a449c5ef8cee38/artifacts
+end_time: 1780040864113
+entry_point_name: ''
+experiment_id: '963250804078364240'
+lifecycle_stage: active
+run_id: 0d46241da65945d282a449c5ef8cee38
+run_name: flawless-shrimp-50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780040862098
+status: 3
+tags: []
+user_id: rajeshkovvuru

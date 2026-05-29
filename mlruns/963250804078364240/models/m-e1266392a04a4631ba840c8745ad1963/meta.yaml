@@ -1,0 +1,10 @@
+artifact_location: file:///Users/rajeshkovvuru/Documents/Mlops_Project/Customer-Churn-Predictions/mlruns/963250804078364240/models/m-e1266392a04a4631ba840c8745ad1963/artifacts
+creation_timestamp: 1780041070640
+experiment_id: '963250804078364240'
+last_updated_timestamp: 1780041072197
+model_id: m-e1266392a04a4631ba840c8745ad1963
+model_type: null
+name: model
+source_run_id: b503b002e02a4471ae850ca108caa026
+status: 2
+status_message: null

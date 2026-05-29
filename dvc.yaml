@@ -1,0 +1,29 @@
+stages:
+
+  preprocess:
+    cmd: python src/preprocessing.py
+    deps:
+      - src/preprocessing.py
+      - data/customer_churn.csv
+    outs:
+      - data/X_train.pkl
+      - data/X_test.pkl
+      - data/y_train.pkl
+      - data/y_test.pkl
+
+  train:
+    cmd: python src/train.py
+    deps:
+      - src/train.py
+      - data/X_train.pkl
+      - data/y_train.pkl
+    outs:
+      - models/model.pkl
+
+  evaluate:
+    cmd: python src/evaluate.py
+    deps:
+      - src/evaluate.py
+      - models/model.pkl
+      - data/X_test.pkl
+      - data/y_test.pkl
