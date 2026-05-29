@@ -47,7 +47,7 @@ def train_model():
     with mlflow.start_run():
 
         # Hyperparameters
-        n_estimators = 100
+        n_estimators = 50
         random_state = 42
 
         # Log parameters
